@@ -29,22 +29,22 @@ export default function About() {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/portfolio/roof1.jpg"
+                src="/portfolio/sheet5.jpg"
                 alt="Our Work"
                 className="rounded-lg shadow-lg w-full h-64 object-cover"
               />
               <img
-                src="/portfolio/roof7.jpg"
+                src="/portfolio/sheet11.jpg"
                 alt="Our Work"
                 className="rounded-lg shadow-lg w-full h-64 object-cover mt-8"
               />
               <img
-                src="/portfolio/roof8.jpg"
+                src="/portfolio/sheet12.jpg"
                 alt="Our Work"
                 className="rounded-lg shadow-lg w-full h-64 object-cover"
               />
               <img
-                src="/portfolio/roof6.jpg"
+                src="/portfolio/sheet9.jpg"
                 alt="Our Work"
                 className="rounded-lg shadow-lg w-full h-64 object-cover mt-8"
               />

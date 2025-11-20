@@ -7,43 +7,43 @@ export default function Portfolio() {
   const projects = [
     {
       id: 1,
-      image: '/portfolio/roof1.jpg',
+      image: '/portfolio/sheet5.jpg',
       title: 'Modern Residential Roofing',
       category: 'residential',
       description: 'Complete metal roofing installation for a modern residential property',
     },
     {
       id: 2,
-      image: '/portfolio/roof6.jpg',
+      image: '/portfolio/sheet9.jpg',
       title: 'Commercial Metal Roof',
       category: 'commercial',
       description: 'Durable metal roofing solution for commercial building',
     },
     {
       id: 3,
-      image: '/portfolio/roof7.jpg',
+      image: '/portfolio/sheet11.jpg',
       title: 'Residential Roof Replacement',
       category: 'residential',
       description: 'Professional roof replacement with premium metal sheets',
     },
     {
       id: 4,
-      image: '/portfolio/roof8.jpg',
+      image: '/portfolio/sheet10.jpg',
       title: 'Residential Roofing Project',
       category: 'residential',
       description: 'Quality roofing installation with structural support',
     },
     {
       id: 5,
-      image: '/portfolio/roof1.jpg',
-      title: 'Metal Truss Installation',
+      image: '/portfolio/sheet12.jpg',
+      title: 'Metal Trusses Installation',
       category: 'trusses',
       description: 'Expert installation of metal trusses for structural integrity',
     },
     {
       id: 6,
-      image: '/portfolio/roof6.jpg',
-      title: 'Roof Maintenance Service',
+      image: '/portfolio/sheet70.jpg',
+      title: 'Wood Installation',
       category: 'maintenance',
       description: 'Comprehensive roof maintenance and repair work',
     },
@@ -162,44 +162,44 @@ export default function Portfolio() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
-              <div className="w-20 h-20 bg-red-500 rounded-full mx-auto mb-4 shadow-lg"></div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Red Roofing Sheets</h3>
+              {/* <div className="w-20 h-20 bg-red-500 rounded-full mx-auto mb-4 shadow-lg"></div> */}
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Aluzinc</h3>
               <p className="text-gray-600">
-                Classic and elegant red metal roofing sheets that add warmth and character to your property.
+                Classic and elegant Aluzinc sheets that add warmth and character to your property.
               </p>
             </div>
 
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
-              <div className="w-20 h-20 bg-blue-600 rounded-full mx-auto mb-4 shadow-lg"></div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Blue Roofing Sheets</h3>
+              {/* <div className="w-20 h-20 bg-blue-600 rounded-full mx-auto mb-4 shadow-lg"></div> */}
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Leasen</h3>
               <p className="text-gray-600">
-                Modern and stylish blue metal roofing sheets that provide a contemporary look and excellent durability.
+                Modern and stylish Leasen sheets that provide a contemporary look and excellent durability.
               </p>
             </div>
 
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
-              <div className="w-20 h-20 bg-green-600 rounded-full mx-auto mb-4 shadow-lg"></div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Green Roofing Sheets</h3>
+              {/* <div className="w-20 h-20 bg-green-600 rounded-full mx-auto mb-4 shadow-lg"></div> */}
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Aluminum</h3>
               <p className="text-gray-600">
-                Vibrant green metal roofing sheets that blend beautifully with natural surroundings.
+                Vibrant Aluminum sheets that blend beautifully with natural surroundings.
               </p>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
-              <div className="text-6xl mb-4">🪵</div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Wooden Trusses</h3>
+              {/* <div className="text-6xl mb-4">🪵</div> */}
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Selflock</h3>
               <p className="text-gray-600">
-                Premium quality wooden trusses for traditional and modern architectural designs.
+                Premium quality Selflocks for traditional and modern architectural designs.
               </p>
             </div>
 
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
-              <div className="text-6xl mb-4">🔩</div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Metal Trusses</h3>
+              {/* <div className="text-6xl mb-4">🔩</div> */}
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">IBR</h3>
               <p className="text-gray-600">
-                Durable metal trusses engineered for superior strength and longevity.
+                Durable IBR engineered for superior strength and longevity.
               </p>
             </div>
           </div>

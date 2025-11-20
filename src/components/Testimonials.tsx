@@ -4,7 +4,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Liyab Tachin',
+      name: 'Mr Frimpong',
       role: 'Homeowner',
       content:
         'RICHSAM Roofing Company did an outstanding job on our home. The team was professional, efficient, and the quality of work exceeded our expectations. Our new roof looks amazing and has been performing perfectly through the rainy season.',

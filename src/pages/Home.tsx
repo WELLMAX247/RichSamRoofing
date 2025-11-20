@@ -10,22 +10,22 @@ export default function Home({ onNavigate }: HomeProps) {
 
   const slides = [
     {
-      image: '/portfolio/roof1.jpg',
+      image: '/portfolio/sheet5.jpg',
       title: 'Professional Roof Installation',
       subtitle: 'Quality Metal Roofing Solutions',
     },
     {
-      image: '/portfolio/roof6.jpg',
+      image: '/portfolio/sheet31.jpg',
       title: 'Expert Roof Maintenance',
       subtitle: 'Durable & Long-lasting Results',
     },
     {
-      image: '/portfolio/roof4.jpg',
+      image: '/portfolio/sheet9.jpg',
       title: 'Residential Roofing Specialists',
       subtitle: 'Your Home, Our Priority',
     },
     {
-      image: '/portfolio/roof8.jpg',
+      image: '/portfolio/sheet13.jpg',
       title: 'Commercial Roofing Services',
       subtitle: 'Built to Last, Built to Protect',
     },
@@ -131,7 +131,7 @@ export default function Home({ onNavigate }: HomeProps) {
               <Clock className="h-8 w-8 text-yellow-500" />
               <div className="text-left">
                 <p className="font-semibold">Working Hours</p>
-                <p className="text-sm text-gray-400">Mon-Fri: 8am-5pm | Sat: 8am-1pm</p>
+                <p className="text-sm text-gray-400">Mon-Fri: 8am-5pm | Sat: 8am-12pm</p>
               </div>
             </div>
             <div className="flex items-center justify-center gap-3">
@@ -219,12 +219,12 @@ export default function Home({ onNavigate }: HomeProps) {
             </div>
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/portfolio/roof1.jpg"
+                src="/portfolio/sheet5.jpg"
                 alt="Roofing Project"
                 className="rounded-lg shadow-lg w-full h-64 object-cover"
               />
               <img
-                src="/portfolio/roof6.jpg"
+                src="/portfolio/sheet9.jpg"
                 alt="Roofing Project"
                 className="rounded-lg shadow-lg w-full h-64 object-cover mt-8"
               />
@@ -247,11 +247,11 @@ export default function Home({ onNavigate }: HomeProps) {
               Get a Free Quote
             </button>
             <a
-              href="tel:+233575338800"
+              href="tel:+233256864730"
               className="bg-gray-900 text-white px-8 py-4 rounded-lg hover:bg-gray-800 transition-colors font-semibold text-lg flex items-center justify-center gap-2"
             >
               <Phone className="h-5 w-5" />
-              Call: +233 57 533 8800
+              Call: +233 25 686 4730
             </a>
           </div>
         </div>

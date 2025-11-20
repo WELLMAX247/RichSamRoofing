@@ -18,7 +18,7 @@ export default function Services({ onNavigate }: ServicesProps) {
         'Professional site assessment',
         'Quality material sourcing',
       ],
-      image: '/portfolio/sheet1.jpeg',
+      // image: '/portfolio/sheet1.jpeg',
     },
     {
       icon: Wrench,
@@ -29,10 +29,10 @@ export default function Services({ onNavigate }: ServicesProps) {
         'Leak detection and repair',
         'Preventive maintenance programs',
         'Emergency repair services',
-        'Gutter cleaning and repair',
-        'Roof coating and sealing',
-      ],
-      image: '/portfolio/sheet2.jpeg',
+        
+        
+     ],
+      // image: '/portfolio/sheet2.jpeg',
     },
     {
       icon: Search,
@@ -46,7 +46,7 @@ export default function Services({ onNavigate }: ServicesProps) {
         'Lifespan evaluation',
         'Free consultation and estimates',
       ],
-      image: '/portfolio/sheet3.jpeg',
+      // image: '/portfolio/sheet3.jpeg',
     },
     {
       icon: Hammer,
@@ -54,13 +54,13 @@ export default function Services({ onNavigate }: ServicesProps) {
       description: 'Expert installation of wooden and metal trusses providing structural support for your roofing system. We ensure proper load distribution and long-term stability.',
       features: [
         'Custom wooden truss fabrication',
-        'Metal truss installation',
+        'Metal trusses installation',
         'Structural engineering consultation',
         'Load-bearing analysis',
         'Quality timber and metal materials',
         'Precision installation techniques',
       ],
-      image: '/portfolio/sheet4.jpeg',
+      // image: '/portfolio/sheet42.jpeg',
     },
   ];
 
@@ -112,11 +112,11 @@ export default function Services({ onNavigate }: ServicesProps) {
                   </button>
                 </div>
                 <div className={index % 2 === 1 ? 'lg:order-1' : ''}>
-                  <img
-                    src={service.image}
-                    alt={service.title}
+                  {/* <img
+                    // src={service.image}
+                    // alt={service.title}
                     className="rounded-lg shadow-xl w-full h-96 object-cover"
-                  />
+                  /> */}
                 </div>
               </div>
             ))}

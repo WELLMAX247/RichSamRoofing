@@ -8,7 +8,7 @@ export default function FAQ() {
     {
       question: 'What types of roofing materials do you work with?',
       answer:
-        'We specialize in metal roofing sheets in various colors including red, blue, and green. We also work with both wooden and metal trusses for structural support. All our materials are sourced from trusted suppliers to ensure quality and durability.',
+        'We specialize in metal roofing sheets we have Aluzinc, leasen, and aluminium produced either as Selflock or IBR. We also work with both wooden and metal trusses for structural support. All our materials are sourced from trusted suppliers to ensure quality and durability.',
     },
     {
       question: 'How long does a typical roof installation take?',
@@ -45,7 +45,14 @@ export default function FAQ() {
       answer:
         'Yes, we offer emergency repair services for urgent roofing issues. Contact us immediately if you have a leak or storm damage, and we will prioritize your situation to prevent further damage to your property.',
     },
+    
+    {
+      question: 'What colors do you have available?',
+      answer:
+          'We offer a full range of colors and can provide any option based on your preference.',
+    },
   ];
+
 
   const toggleFAQ = (index: number) => {
     setOpenIndex(openIndex === index ? null : index);
