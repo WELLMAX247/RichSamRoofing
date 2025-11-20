@@ -265,6 +265,15 @@ export default function Contact() {
                       >
                         Instagram
                       </a>
+                      <span className="text-gray-400">|</span>
+                      <a href="https://tiktok.com/@richsamroofing"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-600 hover:text-yellow-600 transition-colors"
+                      >
+                       TikTok
+                        </a>  
+                      
                     </div>
                   </div>
                 </div>
