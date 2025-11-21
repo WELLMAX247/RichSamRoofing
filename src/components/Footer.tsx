@@ -57,8 +57,8 @@ export default function Footer({ onNavigate }: FooterProps) {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-5 w-5 text-yellow-500 flex-shrink-0" />
-                <a href="mailto:richardobronisamponpong@gmail.com" className="text-gray-400 hover:text-yellow-500 transition-colors text-sm break-all">
-                  richardobronisamponpong@gmail.com
+                <a href="mailto:richardobronisampong@gmail.com" className="text-gray-400 hover:text-yellow-500 transition-colors text-sm break-all">
+                  richardobronisampong@gmail.com
                 </a>
               </li>
             </ul>
