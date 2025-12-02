@@ -15,7 +15,7 @@ export default function Home({ onNavigate }: HomeProps) {
       subtitle: 'Quality Metal Roofing Solutions',
     },
     {
-      image: '/portfolio/sheet31.jpg',
+      image: '/portfolio/sheet20.jpg',
       title: 'Expert Roof Maintenance',
       subtitle: 'Durable & Long-lasting Results',
     },
