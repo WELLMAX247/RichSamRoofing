@@ -138,7 +138,7 @@ export default function Home({ onNavigate }: HomeProps) {
               <Phone className="h-8 w-8 text-yellow-500" />
               <div className="text-left">
                 <p className="font-semibold">Call Us Now</p>
-                <p className="text-sm text-gray-400">+233 57 533 8800</p>
+                <p className="text-sm text-gray-400">+233 25 686 4730</p>
               </div>
             </div>
             <div className="flex items-center justify-center gap-3">
