@@ -9,7 +9,7 @@ export default function Services({ onNavigate }: ServicesProps) {
     {
       icon: Home,
       title: 'Roof Construction & Installation',
-      description: 'Professional installation of new roofing systems for residential and commercial properties. We work with various roofing materials including metal sheets in multiple colors (red, blue, green) to match your aesthetic preferences.',
+      description: 'Professional installation of new roofing systems for residential and commercial properties. We work with various roofing materials including metal sheets in multiple colors to match your aesthetic preferences.',
       features: [
         'Metal roofing sheet installation',
         'Custom color selection and design',
