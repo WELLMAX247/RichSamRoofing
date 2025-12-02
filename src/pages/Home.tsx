@@ -101,7 +101,7 @@ export default function Home({ onNavigate }: HomeProps) {
                 <ArrowRight className="h-5 w-5" />
               </button>
               <a
-                href="tel:+233575338800"
+                href="tel:+233256864730"
                 className="bg-white text-gray-900 px-8 py-4 rounded-lg hover:bg-gray-100 transition-colors font-semibold text-lg flex items-center justify-center gap-2"
               >
                 <Phone className="h-5 w-5" />
