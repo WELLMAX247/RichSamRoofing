@@ -34,7 +34,7 @@ export default function About() {
                 className="rounded-lg shadow-lg w-full h-64 object-cover"
               />
               <img
-                src="/portfolio/sheet11.jpg"
+                src="/portfolio/sheet20.jpg"
                 alt="Our Work"
                 className="rounded-lg shadow-lg w-full h-64 object-cover mt-8"
               />

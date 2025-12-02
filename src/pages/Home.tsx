@@ -56,7 +56,7 @@ export default function Home({ onNavigate }: HomeProps) {
     },
     {
       icon: '🪵',
-      title: 'Trusses Installation',
+      title: 'Trusses Installation & Wood Work',
       description: 'Quality wooden and metal trusses for structural support',
     },
   ];
